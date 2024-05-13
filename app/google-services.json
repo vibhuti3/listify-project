@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "871045650264",
+    "firebase_url": "https://listify-vibhuti-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "listify-vibhuti",
+    "storage_bucket": "listify-vibhuti.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871045650264:android:33d60d7fad1139f0a3772d",
+        "android_client_info": {
+          "package_name": "com.vibhuti.listify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw94Ch0PrwiJNj-trvUX0bJQz-CayrgYA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
